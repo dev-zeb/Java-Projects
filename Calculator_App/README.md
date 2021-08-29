@@ -1,16 +1,26 @@
 
 This repository contains the source Java code for a <b> Basic Calculator App. </b>
 
+<h2> Some Glimpses of the App </h2>
+<div align="center">
+    <div style="display: flex;">
+        <img src="./ScreenShots/Calculator_App_01.PNG" width="400" height="500" alt="Calculator-screen-when-power-off">
+        <img src="./ScreenShots/Calculator_App_02.PNG" width="400" height="500" alt="Calculator-screen-when-power-on">
+    </div>
+</div>
+<div align="center">
+    <div style="display: flex;">
+        <img src="./ScreenShots/Calculator_App_03.PNG" width="400" height="500" alt="Calculator-digits-on-the-screen">
+        <img src="./ScreenShots/Calculator_App_04.PNG" width="400" height="500" alt="Calculator-result-on-the-screen">
+    </div>
+</div>
+
 <h2> Developed Using </h2>
 <ul>
     <li> Programming Language : Java (Swing)</li>
     <li> Operating System : Windows 10 </li>
     <li> IDE: Netbeans 12.4 </li>
 </ul>
-
-<h2> Some Glimpses of the App </h2>
-![alt text](https://github.com/shossain125/Java-Projects/blob/main/Calculator_App/ScreenShots/Calculator_App_01.PNG?raw=true)
-
 
 <h2> Developed By </h2>
 <h3 style="margin: '5px 0px 5px 50px';"> Sufi Aurangzeb Hossain </h3>
