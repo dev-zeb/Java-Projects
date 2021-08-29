@@ -10,7 +10,7 @@ This repository contains the source Java code for a <b> Basic Calculator App. </
 
 <h2> Developed By </h2>
 <p>
-    <h3> Sufi Aurangzeb Hossain </h3> <br>
+    <b> Sufi Aurangzeb Hossain </b> <br>
     BSc in Computer Science and Engineering <br>
     United International University, Dhaka <br>
 </p>
