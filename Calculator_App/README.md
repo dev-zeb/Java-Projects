@@ -10,9 +10,9 @@ This repository contains the source Java code for a <b> Basic Calculator App. </
 
 <h2> Developed By </h2>
 <div>
-    <b style="margin-left: 10px; font: 16px;"> Sufi Aurangzeb Hossain </b> <br>
-    <p style="margin-left: 10px; font: 16px;"> BSc in Computer Science and Engineering </p> <br>
-    <p style="margin-left: 10px; font: 16px;"> United International University, Dhaka </p> <br>
+    <p style="margin-left: 10px; font-size: 20px; text-decoration: bold;"> Sufi Aurangzeb Hossain </p> <br>
+    <p style="margin-left: 10px; font-size: 16px;"> BSc in Computer Science and Engineering </p> <br>
+    <p style="margin-left: 10px; font-size: 16px;"> United International University, Dhaka </p> <br>
 </div>
 
 <h2> Features </h2>
