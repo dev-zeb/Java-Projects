@@ -1,4 +1,19 @@
+
 This repository contains the source Java code for a <b> Basic Calculator App. </b>
+
+<h2> Developed Using </h2>
+<ul>
+    <li> Programming Language : Java (Swing)</li>
+    <li> Operating System : Windows 10 </li>
+    <li> IDE: Netbeans 12.4 </li>
+</ul>
+
+<h2> Developed By </h2>
+<p>
+    <h3> Sufi Aurangzeb Hossain </h3> <br>
+    BSc in Computer Science and Engineering <br>
+    United International University, Dhaka <br>
+</p>
 
 <h2> Features </h2>
 <ul>
